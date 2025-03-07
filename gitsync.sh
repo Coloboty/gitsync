@@ -1,5 +1,4 @@
 #!/bin/bash
-# TODO: output doesn't make sense when run from terminal
 
 # ----------------------------------------------
 # Checking if everything is ready for syncing
